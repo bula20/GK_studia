@@ -16,6 +16,7 @@ background_color = WHITE
 polygon_outline_color = BLACK
 polygon_fill_color = YELLOW
 
+#tworzenie wielokata
 radius = 150
 num_points = 3
 angle = 2* math.pi / num_points
